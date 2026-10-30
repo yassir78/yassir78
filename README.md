@@ -29,7 +29,6 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**velum**](https://github.com/yassir78/velum) | HTTP/1.1 load balancer written from scratch: hand-written parser, round-robin routing, health checks, one virtual thread per connection | Java 21 |
-| [**design-katas**](https://github.com/yassir78/design-katas) | Object-oriented design and concurrency exercises, such as a multi-level parking lot with concurrent gates | Java 17 |
 | [**supe-project**](https://github.com/yassir78/supe-project) | Kubernetes-based microservices (hero, villain, fight) built as a team | Quarkus · K8s |
 | [**chirp**](https://github.com/yassir78/chirp) | Cross-platform mobile app for Android and iOS | Ionic · Angular · Capacitor · Firebase |
 | [**poolhubapp**](https://github.com/yassir78/poolhubapp) | Full-stack web app (auth, catalog, pagination, orders), delivered through reviewed PRs | JHipster · Spring · TS |
